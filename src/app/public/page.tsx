@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
     <div>
-      <h2>Esto es solo para comprobar que la app funciona</h2>
+      <h2>Esto es solo para comprobar que la pagina funciona</h2>
     </div>
     </>
   );
